@@ -7,4 +7,4 @@
 
 ## Tradeoffs
 - False negative: SF homes misclassified as NY homes.
-See the full metrics [here](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/metrics.png)
+See the full metrics ![here](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/metrics.png)
