@@ -7,3 +7,27 @@
 
 ## Tradeoffs
 See the full metrics below ![metrics](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/metrics.png)
+
+## The best (optimal) split
+At the best split, the results of each branch should be as homogenous as possible.
+
+Calculating the optimal split can be done by **gini index, cross entropy, information gain, etc.** 
+
+Note: The notes below is from [this](https://blog.quantinsti.com/gini-index/) website. Check it out! It's a great one!
+
+### Gini Index
+#### Splitting measures
+Splitting measure is a method where we decide the relevance and importance of each of the attributes.
+**The most relevant will be at the root node.** and further traversing down by splitting the nodes.
+
+The more we go down the tree, the level of impurity decreases. This leads to a better classification or best split at each node.
+
+#### Information Gain
+A method used to **determine which feature gives us the maximum information**
+
+Information Gain is: 
+- **Based on the concept of entropy** (the degree of uncertainty, impurity, or disorder)
+- Aim to **reduce the level of entropy**, starting from the root node to the leave nodes.
+
+#### So what actually Gini Index is?
+
