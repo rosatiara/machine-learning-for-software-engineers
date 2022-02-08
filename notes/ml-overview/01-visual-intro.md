@@ -6,5 +6,4 @@
 - Split point: the value between the branches
 
 ## Tradeoffs
-- False negative: SF homes misclassified as NY homes.
-See the full metrics ![here](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/metrics.png)
+See the full metrics below ![metrics](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/metrics.png)
