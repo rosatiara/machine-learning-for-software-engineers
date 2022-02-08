@@ -7,4 +7,4 @@
 
 ## Tradeoffs
 - False negative: SF homes misclassified as NY homes.
-See the full metrics [here](\ml-overview\metrics.png)
+See the full metrics [here](/ml-overview/metrics.png)
