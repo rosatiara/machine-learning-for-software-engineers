@@ -30,4 +30,5 @@ Information Gain is:
 - Aim to **reduce the level of entropy**, starting from the root node to the leave nodes.
 
 #### So what actually Gini Index is?
+Gini Index or Gini Impurity measures **the degree** or probability **of a particular variable being wrongly classified** when it is randomly chosen.
 
