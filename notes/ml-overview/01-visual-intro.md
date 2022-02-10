@@ -35,5 +35,9 @@ Gini Index or Gini Impurity measures **the degree*** or probability **of a parti
 
 Pure = all the elements belong to a single class.
 0 = all elements belong to **a certain class** / there exists only one class
-1 = all elements are randomly distributed across **various classes**
+1 = all elements are randomly distributed across 
+**various classes**
+0.5 = elements are **equally distributed** into some classes
+##### Gini Index Formula
+![gini](notes\ml-overview\gini-index.png)
 
