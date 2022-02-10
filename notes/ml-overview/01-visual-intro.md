@@ -39,5 +39,5 @@ Pure = all the elements belong to a single class.
 **various classes**
 0.5 = elements are **equally distributed** into some classes
 ##### Gini Index Formula
-[gini](notes\ml-overview\gini-index.png)
+![gini](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/metrics.png)
 
