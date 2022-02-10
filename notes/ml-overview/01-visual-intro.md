@@ -41,3 +41,8 @@ Pure = all the elements belong to a single class.
 #### Gini Index Formula
 ![gini](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/gini-index.png)
 
+## The more forks we add to our tree, the more accurate our prediction is.
+
+# Recap
+![recap](https://github.com/rosatiara/machine-learning-for-software-engineers/blob/master/notes/ml-overview/recap.png)
+
